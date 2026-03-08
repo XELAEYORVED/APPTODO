@@ -1,35 +1,45 @@
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
+# 📝 TODOBYALEX
+
+<div align="center">
+  <h1 align="center">TODOBYALEX</h1>
+  <p align="center">
+    <strong>Gestionnaire de tâches moderne avec interface haute performance.</strong>
+    <br />
+    Développé avec React, TypeScript et daisyUI.
+  </p>
+
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black" />
+  </div>
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0F172A&height=100&section=header" width="100%" />
-</p>
-
-### 📊 Niveaux de Priorité
-
-| Priorité | Couleur | Description |
-| :--- | :--- | :--- |
-| **Urgente** | 🔴 Rouge | À traiter immédiatement |
-| **Moyenne** | 🟡 Jaune | Tâche standard |
-| **Basse** | 🔵 Bleu | À faire quand on a le temps |
-
-- [x] Configuration de **Vite** terminée
-- [x] Typage **TypeScript** complet
-- [x] Thème **daisyUI** personnalisé (Bleu nuit)
-- [x] Icônes **Lucide** intégrées
----
 ## 📸 Aperçu de l'interface
 
 <div align="center">
-  <img src="<img width="772" height="846" alt="image" src="https://github.com/user-attachments/assets/5cbfd1d2-4987-4588-9687-967450033d5a" />
-" width="800" alt="Aperçu TODOBYALEX" style="border-radius: 10px; border: 2px solid #1e293b" />
+  <img src="TON_LIEN_APRES_COLLE_ICI" width="700" alt="Aperçu TODOBYALEX" style="border-radius: 12px; border: 2px solid #1e293b;" />
   <p><em>L'interface sombre et épurée de TODOBYALEX.</em></p>
 </div>
-<div align="center">
-  <sub>Built with 💙 by Alex. All rights reserved.</sub>
-</div>
 
+---
+
+## 📊 Fonctionnalités
+
+* ⚡ **Performance** : Build ultra-rapide avec Vite.
+* 🛡️ **Sécurité** : Typage strict avec TypeScript.
+* 🎨 **Design** : Thème sombre "Night" avec daisyUI.
+* 🔍 **Filtres** : Tri par priorité (Urgente, Moyenne, Basse).
+* 💎 **Icons** : Visuels nets avec Lucide React.
+
+---
+
+## 🚀 Installation
+
+```bash
+npm install
+npm run dev
